@@ -1,13 +1,10 @@
 function main ()
 {
-    function sayHello()
-    {
-        var studentName = "Kenn";
-        alert("Hello " + "studentName");
-
-        sayHello();
-
-    }
+var studentName = "kenn";
+printName(studentName);
 }
-
+ function print(name)
+ {
+     alert("hello " + name);
+ }
 main();

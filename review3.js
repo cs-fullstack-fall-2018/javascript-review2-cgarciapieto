@@ -1,4 +1,4 @@
 var i;
-for (i = -10; i < 6; i++) {
+for (i = -10; i < 5; i++) {
     console.log(i)
 }
